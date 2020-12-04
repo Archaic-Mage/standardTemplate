@@ -17,7 +17,7 @@
 typedef long long ll;
 typedef int64_t i64;
 typedef unsigned long long ull;
-#define f(i, a, b) for (int i= a; i < b; i++)
+#define f(i, a, b) for (ll i= a; i < b; i++)
 #define pii pair<int, int>
 #define pll pair<ll, ll>
 #define pss pair<string, string>
