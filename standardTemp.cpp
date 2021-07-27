@@ -36,6 +36,7 @@ typedef unsigned long long ull;
 #define f(i, a, b) for (ll i= a; i < b; i++)
 #define fd(i, a, b) for(ll i = a; i >= b; i--)
 #define pb push_back
+#define mp make_pair
 #define pii pair<int, int>
 #define pll pair<ll, ll>
 #define pss pair<string, string>
@@ -46,15 +47,24 @@ typedef unsigned long long ull;
 #define vc vector<char>
 #define vll vector<ll>
 #define v vector
+#define endl "\n"
 
 using namespace std;
+
+void solve() {
+	
+	// type code here
+	
+}
 
 int main() {
     ios::sync_with_stdio(0);
     cin.tie(0);
     cout.tie(0);
 
-
+	int t; cin >> t;
+	
+	while(t--) solve(), cout << endl;
     
     return 0;
 }
